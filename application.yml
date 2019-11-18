@@ -1,0 +1,10 @@
+
+spring:
+  datasource:
+    username: root
+    password: 78520
+    url: jdbc:mysql://localhost:3306/microPro
+    
+  jpa:
+    generate-ddl: true 
+
